@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/resursi">
+        <file>resursi/beep.wav</file>
+        <file>resursi/beep1.wav</file>
+        <file>resursi/pozadina.jpg</file>
+        <file>resursi/pozadina2.jpg</file>
+        <file>resursi/pozadina3.jpg</file>
+        <file>resursi/pozadina4.jpg</file>
+        <file>resursi/pozadina5.jpg</file>
+        <file>resursi/pozadina6.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resursi/good.jpg</file>
+        <file>resursi/eror.png</file>
+        <file>resursi/images.png</file>
+        <file>resursi/administration.png</file>
+    </qresource>
+</RCC>
